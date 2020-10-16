@@ -1,20 +1,20 @@
 ![Jeffreyo3 Banner](/assets/jeffreyo3_banner.png)
 # Hello there! I'm [Jeffrey Orndorff](https://www.linkedin.com/in/jeffrey-orndorff/)
 
-## 🔍 Currently seeking...
+## 🔍 Currently seeking:
 
 *   I'm currently looking for full time opportunities in Full-Stack Development.
 *   I am open to learning new technologies. In fact, I'm hoping to pick up new skills wherever I work!
 
-## 🔭 I’m currently working on...
+## 🔭 I’m currently working on:
 
 *   Creating a browser-based turn-based RPG-style game using ReactJS for Front End & NodeJS/PostgreSQL for Back End.
 
-## 🌱 I’m currently learning...
+## 🌱 I’m currently learning:
 
 *   How to use Java visually - outside the realm of just backend/API utility.
 
-## 📫 How to reach me:...
+## 📫 How to reach me:
 
 *   Send me a message on [LinkedIn](https://www.linkedin.com/in/jeffrey-orndorff/)!
 
