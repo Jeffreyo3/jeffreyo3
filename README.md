@@ -18,7 +18,9 @@
 
 *   Send me a message on [LinkedIn](https://www.linkedin.com/in/jeffrey-orndorff/)!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyo3&theme=nightowl&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=jeffreyo3&theme=nightowl&show_icons=true&hide=issues" alt="GitHub stats for jeffreyo3"/>
+</a></p>
 
 
 <!--
