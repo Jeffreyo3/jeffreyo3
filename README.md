@@ -18,7 +18,7 @@
 
 *   Send me a message on [LinkedIn](https://www.linkedin.com/in/jeffrey-orndorff/)!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyo3&theme=nightowl&show_icons=true&hide=issues)](https://github.com/jeffreyo3/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeffreyo3&theme=nightowl&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
