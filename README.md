@@ -8,10 +8,12 @@
 
 ## 🔭 I’m currently working on:
 
+*   Scrum Master certification.
 *   Creating a browser-based turn-based RPG-style game using ReactJS for Front End & NodeJS/PostgreSQL for Back End.
 
 ## 🌱 I’m currently learning:
 
+*   UPER problem solving techniques - practicing via code challenges in JS, Python, and Java.
 *   How to use Java visually - outside the realm of just backend/API utility.
 
 ## 📫 How to reach me:
