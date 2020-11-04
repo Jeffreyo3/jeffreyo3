@@ -1,5 +1,7 @@
 ![Jeffreyo3 Banner](/assets/jeffreyo3_banner.png)
 # Hello there! I'm [Jeffrey Orndorff](https://www.linkedin.com/in/jeffrey-orndorff/)
+ * Full Stack Web Developer
+ * Certified Scrum Master
 
 ## 🔍 Currently seeking:
 
@@ -8,7 +10,7 @@
 
 ## 🔭 I’m currently working on:
 
-*   Scrum Master certification.
+*   Writing notes on how to transfer knowledge of JavaScript & ReactJS to other JS frameworks (ie: VueJS). Notes will be used to create a blog post or video.
 *   Creating a browser-based turn-based RPG-style game using ReactJS for Front End & NodeJS/PostgreSQL for Back End.
 
 ## 🌱 I’m currently learning:
