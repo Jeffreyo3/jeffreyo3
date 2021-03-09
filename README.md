@@ -10,13 +10,14 @@
 
 ## 🔭 I’m currently working on:
 
-*   Writing notes on how to transfer knowledge of JavaScript & ReactJS to other JS frameworks (ie: VueJS). Notes will be used to create a blog post or video.
-*   Creating a browser-based turn-based RPG-style game using ReactJS for Front End & NodeJS/PostgreSQL for Back End.
+*   Writing notes on how to transfer knowledge of JavaScript & ReactJS to other JS frameworks (ie: VueJS). Notes might be used to create a blog post or video.
+*   Creating a Java Spring backend for a productivity app.
+*   Collaborating on a client-side clicker game in Angular.
 
 ## 🌱 I’m currently learning:
 
 *   UPER problem solving techniques - practicing via code challenges in JS, Python, and Java.
-*   How to use Java visually - outside the realm of just backend/API utility.
+*   Angular and NgRx
 
 ## 📫 How to reach me:
 
